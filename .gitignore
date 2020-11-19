@@ -4,3 +4,5 @@ UserSettings
 Temp
 Library
 obj
+*.csproj
+*.sln
